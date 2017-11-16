@@ -1,4 +1,4 @@
-# ooptraing
+# ooptraining
 Mindloops Training voor Object Oriented Programming
 
 Lab 1 - Basic OOP concepts
